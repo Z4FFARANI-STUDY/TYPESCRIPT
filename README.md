@@ -1,4 +1,4 @@
-![banner](../TYPESCRIPT/assets/banner.png)
+![banner](./assets/banner.png)
 
 # CRIADOR
 - **[Kaique Rodrigues Zaffarani](https://github.com/Z4ffarani)**
