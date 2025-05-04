@@ -1,7 +1,7 @@
 ![banner](./assets/banner.png)
 
 # CRIADOR
-- **[Kaique Rodrigues Zaffarani](https://github.com/Z4ffarani)**
+- **[Kaique Zaffarani](https://github.com/Z4ffarani)**
 
 <br>
 
